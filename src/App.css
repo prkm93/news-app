@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.input-box {
+  width: 80%;
+  padding: 14px;
+  overflow: hidden;
+}
+.emoji-item {
+  margin: 8px;
+  cursor: pointer;
+}  
